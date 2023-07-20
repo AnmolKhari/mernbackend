@@ -9,4 +9,4 @@ Now write Command(npm i express)
 ->Now whenever we have to run a Script then we write Command(npm run dev(script's name))
 ->Now after Creating login & registration do hashing by writting Command(npm i bcryptjs)
 
-Run(npm run dev)
+Run(npm run dev) for run my app.js part
