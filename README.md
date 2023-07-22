@@ -1,4 +1,5 @@
-Now write Command(npm i express)
+->Now write Command(npm init -y)
+->Now write Command(npm i express)
 ->Now write Command(npm i mongoose)
 ->Now install Templete Engine(Handle Bars) Command(npm i hbs)
 ->Now Create some folder or file like(src, models, db, app.js(file)) (app.js is our main file)
